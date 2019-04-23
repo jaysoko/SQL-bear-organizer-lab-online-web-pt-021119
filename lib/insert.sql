@@ -5,3 +5,4 @@ insert into bears (name) values ("Sergeant Brown");
 insert into bears (name) values ("Melissa");
 insert into bears (name) values ("Grinch");
 insert into bears (name) values ("Wendy");
+insert into bears (name) values (null)
